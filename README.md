@@ -15,7 +15,24 @@ pip install 'python-lsp-server[all]'
 R -e 'install.packages("languageserver")'  
 
 
-
+pip install jupyterlab \
+  jupyterlab-launchpad \
+  jupyterlab-chat \
+  jupyter-collaboration \
+  jupyterlab-git \
+  jupyterlab-code-formatter \
+  jupyter_scheduler \
+  jupyterlab-spellchecker \
+  jupyterlab-spreadsheet-editor \
+  jupyterlab_execute_time \
+  jupyterlab-notifications \
+  jupyterlab-unfold \
+  jupyterlab-day \
+  catppuccin-jupyterlab \
+  jupyterlab-horizon-theme \
+  jupyterlab_materialdarker \
+  theme-darcula \
+  jupyterlab_theme_onedark
 
 
 pip install jupyterlab-day  
@@ -23,6 +40,8 @@ pip install jupyterlab-horizon-theme
 pip install jupyterlab_materialdarker  
 pip install theme-darcula  
 pip install jupyterlab_theme_onedark  
+
+
 
 
 
